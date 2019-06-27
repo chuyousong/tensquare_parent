@@ -8,5 +8,8 @@ spring:
       host: 192.168.134.128
       database: spitdb
 
+  redis:
+    host: 192.168.134.128
+
 
 
